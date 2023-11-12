@@ -3,7 +3,7 @@
 
 ### Overview
 
-This Arduino project utilizes the WIO Terminal's built-in LCD screen and light sensor to create real-time bar charts displaying light sensor readings. The project features two charts, each representing different aspects of the light sensor data. The code leverages the TFT_eSPI library for LCD control and includes functions for drawing dynamic bar charts with customizable styles.
+This Arduino project utilizes the WIO Terminal's built-in LCD screen and light sensor to create real-time bar charts displaying light sensor readings. The project features two charts, each representing the same aspect of the light sensor data. The code leverages the TFT_eSPI library for LCD control and includes functions for drawing dynamic bar charts with customizable styles.
 
 ### Hardware Used
 
