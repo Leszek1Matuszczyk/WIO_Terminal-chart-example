@@ -16,7 +16,7 @@ This Arduino project utilizes the WIO Terminal's built-in LCD screen and light s
 Copy the following files to the your project directory:
 
 1. [TFT_eSPI Library](https://github.com/Bodmer/TFT_eSPI)
-2. [Free_Fonts Library](https://github.com/Bodmer/Free_Fonts)
+2. [Free_Fonts Library](https://github.com/Leszek1Matuszczyk/WIO_Terminal-chart-example/blob/main/Free_Fonts.h)
 
 ### Code Description
 
