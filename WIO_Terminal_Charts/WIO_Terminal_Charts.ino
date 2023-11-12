@@ -73,7 +73,7 @@ void setup() {
   lcd.setFreeFont(FF1);
   lcd.print("Simple charts example");
   lcd.println();
-  lcd.print( "The project features two \ncharts, each representing \ndifferent aspects of the \nlight sensor data. The code  leverages the TFT_eSPI \nlibrary for LCD control.");
+  lcd.print( "The project features two \ncharts, each representing \nthe same aspect of the \nlight sensor data. The code  leverages the TFT_eSPI \nlibrary for LCD control.");
   delay(15000);
   lcd.fillScreen(TFT_WHITE);
   lcd.fillRect(20, 0, 300, 100, TFT_BLACK);
